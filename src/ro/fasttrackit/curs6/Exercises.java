@@ -2,7 +2,7 @@ package ro.fasttrackit.curs6;
 
 public class Exercises {
     public static void main(String[] args) {
-        System.out.println("This is my homework");
+        System.out.println("This is my homewor");
         String[] names = {"Ana", "Oana", "Daria"};
         printLongerThan(names,  4);
     }
